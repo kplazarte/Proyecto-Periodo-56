@@ -13,7 +13,7 @@
         <from-view-id>/login.xhtml</from-view-id>
         <navigation-case>
             <from-outcome>ingresar</from-outcome>
-            <to-view-id>/usuarios/List.xhtml</to-view-id>
+            <to-view-id>/administrador.xhtml</to-view-id>
         </navigation-case>
     </navigation-rule>
 </faces-config>
